@@ -12,7 +12,7 @@ export function tdesignVueNext1() {
 export function tdesignVueNext1Components() {
   return {
     map: getComponentsMap(),
-    isSeperatorByHyphen: false,
+    isSeperatorByHyphen: true,
     prefix: 't',
     isReact: false,
     lib: 'tdesign-vue-next',
